@@ -14,3 +14,5 @@ print("x = ", x)
 
 y = seconds_per_day // seconds_per_hour
 print("y = ", y)
+
+#ANSWER: Aside from the final ".0", both of them gave the same answers.
